@@ -1,7 +1,7 @@
 # covid19-indonesia-dataset-csv
 
 ## Format
-Kota/Kabupaten, Positif, Sembuh, Meninggal, ODP, PDP
+Kota/Kabupaten, Positif, Sembuh, Meninggal, ODP, PDP, Terakhir di update
 
 ## Sumber
 - Banten https://infocorona.bantenprov.go.id
