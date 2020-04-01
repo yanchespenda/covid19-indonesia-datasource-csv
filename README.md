@@ -12,7 +12,7 @@ Kota/Kabupaten, Positif, Sembuh, Meninggal, ODP, PDP, Terakhir di update
 - Jawa Timur https://infocovid19.jatimprov.go.id/ via https://jatimdev.com/corona
 - Sulawesi Selatan https://covid19.sulselprov.go.id/
 
-** Website Kabupaten Jawa Tengah
+** Website Kabupaten/Kota Jawa Tengah
 - Kota Semarang http://siagacorona.semarangkota.go.id/
 - Kabupaten Blora http://corona.blorakab.go.id/
 - Kabupaten Batang https://corona.batangkab.go.id/
